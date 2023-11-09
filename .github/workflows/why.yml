@@ -7,7 +7,7 @@ on:
 
 jobs:
   comment:
-    if: contains(github.event.comment.body, 'why')
+    # if: contains(github.event.comment.body, 'why')
 
     runs-on: ubuntu-latest
 

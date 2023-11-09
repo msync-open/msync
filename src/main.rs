@@ -10,5 +10,5 @@ fn main() {
     let peter = Person { name, age };
 
     // 美化打印
-    println!("{:?}", peter);
+    println!("{:#?}", peter)
 }

@@ -1,0 +1,4 @@
+avoid-breaking-exported-api = false
+disallowed-names = ["toto", "tata", "titi"]
+cognitive-complexity-threshold = 30
+upper-case-acronyms-aggressive = true
